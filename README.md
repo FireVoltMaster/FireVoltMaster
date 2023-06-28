@@ -4,9 +4,7 @@
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-<h3> 🧑 I'm a Senior E!!</h3>
-
-- 🔭 I’m currently working on [InstaPyBot](https://github.com/FireVoltMaster/AutomateInstaPyBot)
+<h3> 🧑 I'm a Senior E-Commerce Web Developer!!</h3>
 
 - 🌱 I’m currently learning **Everything 🤣**
 
