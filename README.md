@@ -122,6 +122,3 @@
 </div>
 
 <br/>  
-
-![FireVoltMaster's github activity graph](https://activity-graph.herokuapp.com/graph?username=FireVoltMaster&theme=nord) 
-
